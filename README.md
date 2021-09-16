@@ -28,4 +28,4 @@ And other cool features are beeing added soon<sup>TM</sup>:
 ## Join us on Discord
 We have a server dedicated to talking all things 3D printing automation. We'd love for you to join!
 
-[![Widget for the Discord API guild](https://discord.com/api/guilds/715220468881424465/widget.png?style=banner2)](https://discord.gg/gHjjAqkVsZ)
+[![Discord Banner 2](https://discord.com/api/guilds/715220468881424465/widget.png?style=banner2)](https://discord.gg/gHjjAqkVsZ)
